@@ -6,6 +6,7 @@ Important Instruction
 4. Please write your comment for your approach/solution within the code. 
 5. All questions are compulsory. 
 6. You have to write pseudo code for each problem. No need to write java code. 
+7. Please do not use any inbuilt function or library for any question. 
 
 Questions. 
 
@@ -32,7 +33,7 @@ Explanation: The missing number from 1 to 8 is 5
 
 
 4) Write a pseudo code that reverse a string. Take input string from user. 
-Please think of an optimized approach. 
+Please think of an optimized approach. (you can not use any inbuilt function or library)
 
 Sample input - "bitLabs"
 Sample output - "sbaLtib"
