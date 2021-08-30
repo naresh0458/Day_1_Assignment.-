@@ -61,20 +61,34 @@ Sample output = 1 ( index position of 2 is 1)
 
 
 
-7) Write a pseudo code to search lowest and second lowest number in an array. Take all input array elements from user.
+7) Write a pseudo code to search lowest and secound lowest number in an array. Take all input array elements from user.
 Sample input - array = [1,4,3,6,2,9]
 
 Sample output-	lowest element = 1
-		second lowest = 2
+		secound lowest = 2
 
 
 
 8) Write a pseudo code to do basic arithmatic calculations, Addition/ substraction/ Multiplication/ Division. Your code should take two numbers and an operator from user to get the output. 
 Sample input - first number - 4
-		second number - 8
+		secound number - 8
 		operator = +
 
 Sample output-	12 => (4+8)
+
+code:  bouble a,b,w,x,y,z;
+        a=5;
+	b=2;
+	w=a+b;
+	x=a-b;
+	y=a*b;
+	z=a/b;
+	system.out.println("w");
+	system.out.println("x");
+        system.out.println("y");
+	system.out.println("z");
+      
+    
 
 
 
