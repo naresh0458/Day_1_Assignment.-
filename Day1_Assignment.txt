@@ -1,0 +1,91 @@
+Important Instruction
+
+1. Please write your own code for each problem. Please do not copy from any sources. It may leads to deduction in your final grade. You can take help from mentors only.
+2. Take all possible input from user within your code.
+3. Please maintain indentation in your code.
+4. Please write your comment for your approach/solution within the code. 
+5. All questions are compulsory. 
+
+Questions. 
+
+1) Please find the print the sum of all even numbers and sum of all odd numbers less than or equal to a given number N. Here you need to take input number N from the user. 
+Sample input - N = 5
+sample output - even sum => 2 + 4 = 6
+		odd sum => 1+3+5 = 9
+
+
+
+2) Please check if a given number N is prime or not?
+Sample input - N = 5
+sample output - "yes, 5 is a prime number."
+
+
+
+3) You are given a list of n-1 integers and these integers are in the range of 1 to n. 
+There are no duplicates in the list. One of the integers is missing in the list.
+ Write an efficient code to find the missing integer.
+Sample Input: arr[] = {1, 2, 4, 6, 3, 7, 8}
+Sample Output: 5
+Explanation: The missing number from 1 to 8 is 5
+
+
+
+4) Write a code that reverse a string. Take input string from user. 
+Please think of an optimized approach. 
+
+Sample input - "bitLabs"
+Sample output - "sbaLtib"
+
+
+
+5)Write a code to search an element in a given array and return it's index position. your code should return "Not Found" message if element is not found.  
+Take all input array elements from user. 
+
+Sample input - array = [1,4,3,6,8,2]
+		key = 2
+
+Sample output = 5 ( index position of 2 is 5)
+
+
+
+
+6) Please write an optimized approach to search an element in a given array if the given array is sorted. Your code should return "Not Found" message if element is not found.  
+Take all input array elements from user. 
+Sample input - array = [1,2,3,6,8,9]
+		key = 2
+
+Sample output = 1 ( index position of 2 is 1)
+
+
+
+
+7) Write a code to search lowest and secound lowest number in an array. Take all input array elements from user.
+Sample input - array = [1,4,3,6,2,9]
+
+Sample output-	lowest element = 1
+		secound lowest = 2
+
+
+
+8) Write a code to do basic arithmatic calculations, Addition/ substraction/ Multiplication/ Division. Your code should take two numbers and an operator from user to get the output. 
+Sample input - first number - 4
+		secound number - 8
+		operator = +
+
+Sample output-	12 => (4+8)
+
+
+
+9) Given an array of integers. All numbers occur twice except one number which occurs once. Please take all input array elements from user and write an optimized approach. 
+Input:  array - [7, 3, 5, 4, 5, 3, 4]
+Output: 7 
+
+
+
+10) Write a code to convert a decimal to it's binary form. Please Do NOT use any built-in fuction or library. Take number from user only. 
+Sample input - N = 5
+
+Sample output- 101
+
+ 
+11) Draw a flowchart to log in to your bitLabs LMS account.
