@@ -5,6 +5,7 @@ Important Instruction
 3. Please maintain indentation in your code.
 4. Please write your comment for your approach/solution within the code. 
 5. All questions are compulsory. 
+6. You have write pseudo code for each each problem. No need to write java code. 
 
 Questions. 
 
