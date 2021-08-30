@@ -1,6 +1,6 @@
 Important Instruction
 
-1. Please write your own code for each problem. Please do not copy from any sources. It may leads to deduction in your final grade. You can take help from mentors only.
+1. Please write your own code for each problem. Please do not copy from any sources. It may leads to deduction in your final grade. For any clarification, Please contact to your mentor.
 2. Take all possible input from user within your code.
 3. Please maintain indentation in your code.
 4. Please write your comment for your approach/solution within the code. 
