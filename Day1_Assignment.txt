@@ -5,7 +5,7 @@ Important Instruction
 3. Please maintain indentation in your code.
 4. Please write your comment for your approach/solution within the code. 
 5. All questions are compulsory. 
-6. You have write pseudo code for each each problem. No need to write java code. 
+6. You have to write pseudo code for each problem. No need to write java code. 
 
 Questions. 
 
@@ -31,7 +31,7 @@ Explanation: The missing number from 1 to 8 is 5
 
 
 
-4) Write a code that reverse a string. Take input string from user. 
+4) Write a pseudo code that reverse a string. Take input string from user. 
 Please think of an optimized approach. 
 
 Sample input - "bitLabs"
@@ -39,7 +39,7 @@ Sample output - "sbaLtib"
 
 
 
-5)Write a code to search an element in a given array and return it's index position. your code should return "Not Found" message if element is not found.  
+5)Write a pseudo code to search an element in a given array and return it's index position. your code should return "Not Found" message if element is not found.  
 Take all input array elements from user. 
 
 Sample input - array = [1,4,3,6,8,2]
@@ -50,7 +50,7 @@ Sample output = 5 ( index position of 2 is 5)
 
 
 
-6) Please write an optimized approach to search an element in a given array if the given array is sorted. Your code should return "Not Found" message if element is not found.  
+6) Please write an optimized approach to search an element in a given array if the given array is sorted. Your pseudo code should return "Not Found" message if element is not found.  
 Take all input array elements from user. 
 Sample input - array = [1,2,3,6,8,9]
 		key = 2
@@ -60,7 +60,7 @@ Sample output = 1 ( index position of 2 is 1)
 
 
 
-7) Write a code to search lowest and secound lowest number in an array. Take all input array elements from user.
+7) Write a pseudo code to search lowest and secound lowest number in an array. Take all input array elements from user.
 Sample input - array = [1,4,3,6,2,9]
 
 Sample output-	lowest element = 1
@@ -68,7 +68,7 @@ Sample output-	lowest element = 1
 
 
 
-8) Write a code to do basic arithmatic calculations, Addition/ substraction/ Multiplication/ Division. Your code should take two numbers and an operator from user to get the output. 
+8) Write a pseudo code to do basic arithmatic calculations, Addition/ substraction/ Multiplication/ Division. Your code should take two numbers and an operator from user to get the output. 
 Sample input - first number - 4
 		secound number - 8
 		operator = +
@@ -83,27 +83,25 @@ Output: 7
 
 
 
-10) Write a code to convert a decimal to it's binary form. Please Do NOT use any built-in fuction or library. Take number from user only. 
+10) Write a pseudo code to convert a decimal to it's binary form. Please Do NOT use any built-in fuction or library. Take number from user only. 
 Sample input - N = 5
 
 Sample output- 101
 
 
- Write your code and make flow chart for the given problems- 
 
+11). Write a pseudo code to compute the volume of a sphere. Use the formula: V = (4/3) *pi*r3 where pi is equal to 3.1416 approximately. The r is the radius of sphere.  Display the result.
 
-11). Create a program to compute the volume of a sphere. Use the formula: V = (4/3) *pi*r3 where pi is equal to 3.1416 approximately. The r is the radius of sphere.  Display the result.
+12). Write a pseudo code the converts the input Celsius degree into its equivalent Fahrenheit degree. Use the formula: F = (9/5) *C+32.
 
-12). Write a program the converts the input Celsius degree into its equivalent Fahrenheit degree. Use the formula: F = (9/5) *C+32.
+13). Write a pseudo code that converts the input dollar to its peso exchange rate equivalent.  Assume that the present exchange rate is 51.50 pesos against the dollar. Then display the peso equivalent exchange rate.
 
-13). Write a program that converts the input dollar to its peso exchange rate equivalent.  Assume that the present exchange rate is 51.50 pesos against the dollar. Then display the peso equivalent exchange rate.
+14) Write a pseudo code that converts an input inch(es) into its equivalent centimeters. Take note that one inch is equivalent to 2.54cms.
 
-14) Write a program that converts an input inch(es) into its equivalent centimeters. Take note that one inch is equivalent to 2.54cms.
+15) Write a pseudo code that exchanges the value of two variables: x and y.  The output must be: the value of variable y will become the value of variable x, and vice versa.
 
-15) Write a program that exchanges the value of two variables: x and y.  The output must be: the value of variable y will become the value of variable x, and vice versa.
+16) Design a pseudo code to find the circumference of a circle. Use the formula: C=2πr, where π is approximately equivalent 3.1416.
 
-16) Design a program to find the circumference of a circle. Use the formula: C=2πr, where π is approximately equivalent 3.1416.
-
-17) Swapping of 2 variables without using temporary (or 3rd variable).
+17) Write a pseudo code for Swapping of 2 variables without using temporary (or 3rd variable).
 
 18) Draw a flowchart to log in to your bitLabs LMS account.
