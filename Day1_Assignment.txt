@@ -87,5 +87,22 @@ Sample input - N = 5
 
 Sample output- 101
 
- 
-11) Draw a flowchart to log in to your bitLabs LMS account.
+
+ Write your code and make flow chart for the given problems- 
+
+
+11). Create a program to compute the volume of a sphere. Use the formula: V = (4/3) *pi*r3 where pi is equal to 3.1416 approximately. The r is the radius of sphere.  Display the result.
+
+12). Write a program the converts the input Celsius degree into its equivalent Fahrenheit degree. Use the formula: F = (9/5) *C+32.
+
+13). Write a program that converts the input dollar to its peso exchange rate equivalent.  Assume that the present exchange rate is 51.50 pesos against the dollar. Then display the peso equivalent exchange rate.
+
+14) Write a program that converts an input inch(es) into its equivalent centimeters. Take note that one inch is equivalent to 2.54cms.
+
+15) Write a program that exchanges the value of two variables: x and y.  The output must be: the value of variable y will become the value of variable x, and vice versa.
+
+16) Design a program to find the circumference of a circle. Use the formula: C=2πr, where π is approximately equivalent 3.1416.
+
+17) Swapping of 2 variables without using temporary (or 3rd variable).
+
+18) Draw a flowchart to log in to your bitLabs LMS account.
